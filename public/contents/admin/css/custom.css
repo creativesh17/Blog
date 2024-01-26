@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+
+.swal2-cancel{
+    margin-right: 10px !important;
+    font-size: 15px !important;
+}
+.swal2-confirm{
+    margin-left: 10px !important;
+    font-size: 15px !important;
+}
+.swal2-popup{
+    width: 44em;
+}
+.swal2-header{
+    font-size: 15px !important;
+}
+.swal2-content{
+    font-size: 14px !important;
+}
+.swal2-actions{
+    margin-bottom: 10px !important;
+}
